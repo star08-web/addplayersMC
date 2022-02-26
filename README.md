@@ -14,6 +14,6 @@ voi direte che Alex ( o Alexandra, nel nome completo) e Steve non sono veri play
 
 
 # questa mod inserisce nel codice di Minecraft due semplici stringhe per introdurre due entità chiamate rispettivamente "alex" e "steve"
-Nota: non posso mettere una demo sullo spawning perchè github è infame e per motivi di dimensioni non me lo fa caricare p
+Nota: non posso mettere una demo sullo spawning perchè github è infame e per motivi di dimensioni non me le fa caricare 😢
 
 # versione di forge compatibile   https://maven.minecraftforge.net/net/minecraftforge/forge/1.17.1-37.1.1/forge-1.17.1-37.1.1-installer.jar
