@@ -17,4 +17,6 @@ voi direte che Alex ( o Alexandra, nel nome completo) e Steve non sono veri play
 Nota: non posso mettere una demo sullo spawning perchè github è infame e per motivi di dimensioni non me le fa caricare 😢
 
 # versione di forge compatibile   https://maven.minecraftforge.net/net/minecraftforge/forge/1.17.1-37.1.1/forge-1.17.1-37.1.1-installer.jar
-# fabric stuffs to download https://www.curseforge.com/minecraft/mc-mods/fabric-api/download/3377591 https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.11.0/fabric-installer-0.11.0.jar (1.17.1) 
+# fabric stuffs to download 
+- [fabric api](https://www.curseforge.com/minecraft/mc-mods/fabric-api/download/3377591) 
+- [fabric 1.17.1](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.11.0/fabric-installer-0.11.0.jar)
