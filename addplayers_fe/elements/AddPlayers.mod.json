@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Add Players",
+    "icon": {
+      "value": "Blocks.POWERED_REPEATER"
+    },
+    "showSearch": false
+  }
+}

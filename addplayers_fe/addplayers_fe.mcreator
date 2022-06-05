@@ -1,0 +1,61 @@
+{
+  "mod_elements": [
+    {
+      "name": "Alex",
+      "type": "livingentity",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alex"
+    },
+    {
+      "name": "Steve",
+      "type": "livingentity",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steve"
+    },
+    {
+      "name": "AddPlayers",
+      "type": "tab",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "add_players"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.addplayers_fe.steve_spawn_egg": "Steve Spawn Egg",
+      "entity.addplayers_fe.steve": "Steve",
+      "item.addplayers_fe.alex_spawn_egg": "Alex Spawn Egg",
+      "entity.addplayers_fe.alex": "Alex",
+      "itemGroup.addplayers_fe.add_players": "Add Players"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "addplayers_fe",
+    "modName": "add players for fabric environments",
+    "version": "1.0.0.FE",
+    "author": "star",
+    "websiteURL": "stardevlabs.altervista.org",
+    "license": "MIT License",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.17.1",
+    "modElementsPackage": "io.stardevlabs.addplayersfe",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}
