@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="MIT License"
+
+[[mods]]
+modId="add_players"
+version="2.0.1.release"
+displayName="add players"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://www.planetminecraft.com/mod/add-players/"
+authors="star"
+
+[[dependencies.add_players]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.17.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
