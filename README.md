@@ -4,12 +4,12 @@ a mod to enable NPC (Alex and Steve) on minecraft 1.17
 you will say that Alex (or Alexandra, in full name) and Steve are not real players.
 # no, you are wrong
 # inside the Minecraft JAR file we can find some Textures called respectively "alex.png" and "steve.png"
-! [Alt text] (https://github.com/star08-web/addplayersMC/blob/main/support/1.png)
+![Alt text](https://github.com/star08-web/addplayersMC/blob/main/support/1.png)
 
 
 
 # unfortunately in the minecraft entitylist there are NO entities called "Alex" or "Steve"
-! [Alt text] (https://github.com/star08-web/addplayersMC/blob/main/support/demo.gif)
+![Alt text](https://github.com/star08-web/addplayersMC/blob/main/support/demo.gif)
 
 
 
@@ -18,5 +18,5 @@ Note: I can't put a demo on spawning because github is infamous and for size rea
 
 # compatible forge version https://maven.minecraftforge.net/net/minecraftforge/forge/1.17.1-37.1.1/forge-1.17.1-37.1.1-installer.jar
 # fabric stuffs to download
-- [fabric api] (https://www.curseforge.com/minecraft/mc-mods/fabric-api/download/3377591)
-- [fabric 1.17.1] (https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.11.0/fabric-installer-0.11.0.jar)
+-[fabric api](https://www.curseforge.com/minecraft/mc-mods/fabric-api/download/3377591)
+-[fabric 1.17.1](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.11.0/fabric-installer-0.11.0.jar)
