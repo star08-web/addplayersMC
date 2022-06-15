@@ -31,7 +31,7 @@ AddplayersMc is still supported (to learn more go here --> [Security](https://gi
 
 but, until MCreator is updated to 1.19.0 I will not be able to do anything, sorry
 
- there is also good news though, version 2.0.2 is coming and will have support for 1.18.0 check on [PlanetMinecraft](https://www.planetminecraft.com/mod/add-players/) or on this repo to find out more
+ there is also good news though, version 2.0.2 is coming and will have support for 1.18.2 check on [PlanetMinecraft](https://www.planetminecraft.com/mod/add-players/) or on this repo to find out more
 
 
 
