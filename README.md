@@ -20,7 +20,8 @@ Note: I can't put a demo on spawning because github is infamous and for size rea
 # downloads 
 - [download latest version](https://www.planetminecraft.com/mod/add-players/download/file/15748618/) 
 - [download archive](https://github.com/star08-web/addplayersMC/releases)
-- 
+
+
 # compatible forge version  [download](https://maven.minecraftforge.net/net/minecraftforge/forge/1.17.1-37.1.1/forge-1.17.1-37.1.1-installer.jar)
 # fabric stuffs to download
 - [fabric api](https://www.curseforge.com/minecraft/mc-mods/fabric-api/download/3377591)
