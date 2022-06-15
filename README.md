@@ -4,12 +4,12 @@ a mod to enable NPC (Alex and Steve) on minecraft 1.17
 you will say that Alex (or Alexandra, in full name) and Steve are not real players.
 # no, you are wrong
 # inside the Minecraft JAR file we can find some Textures called respectively "alex.png" and "steve.png"
-![Alt text](https://github.com/star08-web/addplayersMC/blob/main/support/1.png)
+![if not visible go on github](https://github.com/star08-web/addplayersMC/blob/main/support/1.png)
 
 
 
 # unfortunately in the minecraft entitylist there are NO entities called "Alex" or "Steve"
-![Alt text](https://github.com/star08-web/addplayersMC/blob/main/support/demo.gif)
+![if not visible go on github](https://github.com/star08-web/addplayersMC/blob/main/support/demo.gif)
 
 
 
